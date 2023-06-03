@@ -8,7 +8,6 @@ Application is designed to check string is spam. Algorith using Naive Bayers Cla
 - `data_to_check` (string): Data to predice.
 #### Response
 Returns a boolean. If return 
--  - given string is spam
 - `0` : Given string is not spam.
 - `1` : Given string is spam.
 
